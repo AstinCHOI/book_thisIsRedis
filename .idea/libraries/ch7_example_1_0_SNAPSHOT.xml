@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ch7_example-1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ch7_example/target/ch7_example-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
