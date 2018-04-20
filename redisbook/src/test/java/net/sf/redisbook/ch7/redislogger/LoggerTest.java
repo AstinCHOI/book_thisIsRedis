@@ -5,14 +5,14 @@ import net.sf.redisbook.JedisHelper;
 import static org.junit.Assert.*;
 import org.junit.*;
 
-public class LogWriterTest {
+
+public class LoggerTest {
     static JedisHelper helper;
-    static LogWriter logger;
+    private static final int WAITING_TERM = 5000;
 
     @BeforeClass
     public static void setUpBeforeClass() throws Exception {
         helper = JedisHelper.getInstance();
-        logger = new LogWriter(helper);
     }
 
     @AfterClass
@@ -21,13 +21,28 @@ public class LogWriterTest {
     }
 
     @Test
-    public void testLogger() {
+    public void testWrite() {
         Random random = new Random(System.currentTimeMillis());
+        LogWriterV2 logWriter = new LogWriterV2(helper);
         for (int i = 0; i < 100; i++) {
-            assertTrue(logger.log("This is test log message 1") > 0);
+            assertTrue(logWriter.log(i + ", This is new test log message") > 0);
 
             try {
                 Thread.sleep(random.nextInt(50));
+            } catch (InterruptedException e) {
+                // do nothing
+            }
+        }
+    }
+
+    @Test
+    public void testReceiver() {
+        LogReceiverV2 logReceiver = new LogReceiverV2();
+
+        for (int i = 0; i < 5; i++) {
+            logReceiver.start();
+            try {
+                Thread.sleep(WAITING_TERM);
             } catch (InterruptedException e) {
                 // do nothing
             }
