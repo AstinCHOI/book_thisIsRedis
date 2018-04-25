@@ -3,6 +3,7 @@ package net.sf.redisbook.ch7.redislogger;
 import java.util.Random;
 import net.sf.redisbook.JedisHelper;
 import static org.junit.Assert.*;
+
 import org.junit.*;
 
 
