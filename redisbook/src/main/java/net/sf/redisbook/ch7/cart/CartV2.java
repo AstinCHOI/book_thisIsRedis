@@ -8,7 +8,6 @@ import org.json.simple.parser.ParseException;
 import redis.clients.jedis.Jedis;
 import redis.clients.jedis.Pipeline;
 
-import java.nio.channels.Pipe;
 import java.util.List;
 import java.util.Set;
 

@@ -25,8 +25,8 @@
       <file leaf-file-name="Cart.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/net/sf/redisbook/ch7/cart/Cart.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="270">
+              <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -34,14 +34,62 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CartV2.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CartV2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/net/sf/redisbook/ch7/cart/CartV2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="147" column="22" lean-forward="true" selection-start-line="147" selection-start-column="22" selection-end-line="147" selection-end-column="22" />
+            <state relative-caret-position="735">
+              <caret line="49" column="7" lean-forward="true" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LikePosting.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/net/sf/redisbook/ch7/like/LikePosting.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="74" column="40" selection-start-line="74" selection-start-column="40" selection-end-line="74" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#268#269#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+                <element signature="e#1256#1257#0" expanded="true" />
+                <element signature="e#1333#1334#0" expanded="true" />
+                <element signature="e#1491#1492#0" expanded="true" />
+                <element signature="e#1558#1559#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LikePostingTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch7/like/LikePostingTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="102" column="1" lean-forward="true" selection-start-line="102" selection-start-column="1" selection-end-line="102" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LogWriterTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch7/redislogger/LogWriterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="27" column="30" selection-end-line="36" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LogReceiverTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch7/redislogger/LogReceiverTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -49,7 +97,7 @@
       <file leaf-file-name="CartTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch7/cart/CartTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
+            <state relative-caret-position="330">
               <caret line="31" column="26" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -61,8 +109,8 @@
       <file leaf-file-name="CartTestV2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch7/cart/CartTestV2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="49" selection-start-line="49" selection-end-line="49" />
+            <state relative-caret-position="285">
+              <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -93,6 +141,13 @@
       <find>KEY_EVENT_CLICK_DAILY_TOTAL</find>
       <find>visitCountOfDay</find>
       <find>getCartInfo</find>
+      <find>pipe</find>
+      <find>cartInfocartInfo</find>
+      <find>cartInfo</find>
+      <find>scard</find>
+      <find>getLikeCountList</find>
+      <find>KEY_LIKE_SET</find>
+      <find>isliked</find>
     </findStrings>
   </component>
   <component name="GradleLocalSettings">
@@ -413,6 +468,8 @@
         <option value="$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch7/cart/CartTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch7/cart/CartTestV2.java" />
         <option value="$PROJECT_DIR$/src/main/java/net/sf/redisbook/ch7/cart/CartV2.java" />
+        <option value="$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch7/like/LikePostingTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/sf/redisbook/ch7/like/LikePosting.java" />
       </list>
     </option>
   </component>
@@ -425,17 +482,19 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-357" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-480" />
     <option name="y" value="-1057" />
-    <option name="width" value="1440" />
-    <option name="height" value="877" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -486,7 +545,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="redisbook" type="462c0819:PsiDirectoryNode" />
               <item name="ch7" type="462c0819:PsiDirectoryNode" />
-              <item name="cart" type="462c0819:PsiDirectoryNode" />
+              <item name="like" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="redisbook" type="b2602c69:ProjectViewProjectNode" />
@@ -536,15 +595,13 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="redisbook" type="462c0819:PsiDirectoryNode" />
               <item name="ch7" type="462c0819:PsiDirectoryNode" />
-              <item name="redislogger" type="462c0819:PsiDirectoryNode" />
+              <item name="like" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -574,7 +631,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CartTestV2">
+  <component name="RunManager" selected="JUnit.LikePostingTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -632,18 +689,18 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="VisitCountOfDayV2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LikePostingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="redisbook_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="net.sf.redisbook.ch7.visitcount.*" />
+          <option name="PATTERN" value="net.sf.redisbook.ch7.like.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="net.sf.redisbook.ch7.visitcount" />
-      <option name="MAIN_CLASS_NAME" value="net.sf.redisbook.ch7.visitcount.VisitCountOfDayV2Test" />
+      <option name="PACKAGE_NAME" value="net.sf.redisbook.ch7.like" />
+      <option name="MAIN_CLASS_NAME" value="net.sf.redisbook.ch7.like.LikePostingTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -717,19 +774,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.VisitCountOfDayV2Test" />
       <item itemvalue="JUnit.VisitCountOfDayV2Test.testGetVisitCountByDate" />
       <item itemvalue="Groovy.build" />
       <item itemvalue="JUnit.CartTest" />
       <item itemvalue="JUnit.CartTestV2" />
+      <item itemvalue="JUnit.LikePostingTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LikePostingTest" />
         <item itemvalue="JUnit.CartTestV2" />
         <item itemvalue="JUnit.CartTest" />
         <item itemvalue="Groovy.build" />
         <item itemvalue="JUnit.VisitCountOfDayV2Test.testGetVisitCountByDate" />
-        <item itemvalue="JUnit.VisitCountOfDayV2Test" />
       </list>
     </recent_temporary>
   </component>
@@ -751,14 +808,12 @@
       <workItem from="1524815466538" duration="250000" />
       <workItem from="1524815755027" duration="641000" />
       <workItem from="1525047064898" duration="2042000" />
-      <workItem from="1525076292021" duration="2320000" />
+      <workItem from="1525076292021" duration="2387000" />
+      <workItem from="1525328123417" duration="4726000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="VisitCountOfDayTest_testGetVisitCountByDate - 2018.04.24 at 18h 20m 02s.xml">
-      <configuration name="VisitCountOfDayTest.testGetVisitCountByDate" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="VisitCountOfDayTest_testGetVisitCountByDate - 2018.04.24 at 18h 21m 37s.xml">
       <configuration name="VisitCountOfDayTest.testGetVisitCountByDate" configurationId="JUnit" />
     </history-entry>
@@ -786,12 +841,15 @@
     <history-entry file="CartTestV2 - 2018.04.30 at 17h 48m 51s.xml">
       <configuration name="CartTestV2" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="LikePostingTest - 2018.05.03 at 16h 59m 29s.xml">
+      <configuration name="LikePostingTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30524000" />
+    <option name="totallyTimeSpent" value="35317000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-480" y="-1057" width="1920" height="1057" extended-state="6" />
+    <frame x="-480" y="-1057" width="1920" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -811,10 +869,10 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26856562" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26856562" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17760417" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17760417" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="7" />
       <window_info id="Learn" order="2" />
       <window_info anchor="right" id="Gradle" order="3" />
@@ -836,20 +894,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/sf/redisbook/ch7/redislogger/LogWriterV2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/sf/redisbook/ch7/redislogger/LogWriter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch7/redislogger/LogReceiverTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -1091,20 +1135,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch7/redislogger/LogWriterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="30" selection-end-line="36" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch7/redislogger/LogReceiverTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/net/sf/redisbook/ch7/redislogger/LogWriter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -1140,26 +1170,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch7/redislogger/LoggerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="13" selection-start-line="13" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/net/sf/redisbook/ch7/cart/Cart.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch7/cart/CartTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
+        <state relative-caret-position="330">
           <caret line="31" column="26" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1167,19 +1180,76 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch7/cart/CartTestV2.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/sf/redisbook/ch7/cart/Cart.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        <state relative-caret-position="270">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/net/sf/redisbook/ch7/cart/CartV2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="147" column="22" lean-forward="true" selection-start-line="147" selection-start-column="22" selection-end-line="147" selection-end-column="22" />
+        <state relative-caret-position="735">
+          <caret line="49" column="7" lean-forward="true" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch7/redislogger/LogWriterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="27" column="30" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch7/redislogger/LogReceiverTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch7/redislogger/LoggerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="13" selection-start-line="13" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch7/cart/CartTestV2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch7/like/LikePostingTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="102" column="1" lean-forward="true" selection-start-line="102" selection-start-column="1" selection-end-line="102" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/sf/redisbook/ch7/like/LikePosting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="74" column="40" selection-start-line="74" selection-start-column="40" selection-end-line="74" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#268#269#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#1256#1257#0" expanded="true" />
+            <element signature="e#1333#1334#0" expanded="true" />
+            <element signature="e#1491#1492#0" expanded="true" />
+            <element signature="e#1558#1559#0" expanded="true" />
           </folding>
         </state>
       </provider>
