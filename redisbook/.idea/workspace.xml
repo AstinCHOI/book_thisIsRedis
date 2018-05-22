@@ -21,113 +21,7 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ReplicationKeyMakerV2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/sf/redisbook/ch8/replication/ReplicationKeyMakerV2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="19" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReplicationTestV2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch8/ReplicationTestV2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="29" selection-start-line="29" selection-end-line="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ShardingTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch8/ShardingTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="49" lean-forward="true" selection-start-line="30" selection-start-column="49" selection-end-line="30" selection-end-column="49" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ShardedJedisHelper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/sf/redisbook/ShardedJedisHelper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="740">
-              <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#441#455#0" expanded="true" />
-                <element signature="e#868#905#0" expanded="true" />
-                <element signature="e#1302#1318#0" expanded="true" />
-                <element signature="e#1635#1672#0" expanded="true" />
-                <element signature="e#1715#1716#0" expanded="true" />
-                <element signature="e#1747#1748#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ShardTestKeyMaker.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/sf/redisbook/ch8/replication/ShardTestKeyMaker.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AppTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/net/sf/redisbook/AppTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JedisHelper.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/net/sf/redisbook/JedisHelper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="53" column="5" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="53" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GenericObjectPool.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-pool/commons-pool/1.4/ad142feebc0d8c7a72b5a79c0a7d8776ce10c90a/commons-pool-1.4-sources.jar!/org/apache/commons/pool/impl/GenericObjectPool.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="1358" column="24" selection-start-line="1358" selection-start-column="24" selection-end-line="1358" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/settings.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="30" selection-start-column="30" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="78" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -155,6 +49,7 @@
       <find>EventUserList</find>
       <find>20110508</find>
       <find>ShardedJedisPool</find>
+      <find>getBeforeEncoding2</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -504,6 +399,8 @@
         <option value="$PROJECT_DIR$/src/main/java/net/sf/redisbook/ShardedJedisHelper.java" />
         <option value="$PROJECT_DIR$/src/main/java/net/sf/redisbook/ch8/replication/ShardTestKeyMaker.java" />
         <option value="$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch8/ShardingTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/net/sf/redisbook/ch10/HashZipList.java" />
+        <option value="$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch10/HashZipListTest.java" />
       </list>
     </option>
   </component>
@@ -517,19 +414,18 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-2560" />
-    <option name="y" value="57" />
-    <option name="width" value="2560" />
-    <option name="height" value="1417" />
+    <option name="x" value="-2304" />
+    <option name="y" value="143" />
+    <option name="width" value="1400" />
+    <option name="height" value="837" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -537,10 +433,95 @@
               <item name="redisbook" type="b2602c69:ProjectViewProjectNode" />
               <item name="redisbook" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
+            <path>
+              <item name="redisbook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="redisbook" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="redisbook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="redisbook" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="redisbook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="redisbook" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="redisbook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="redisbook" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="redisbook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="redisbook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="redisbook" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="redisbook" type="462c0819:PsiDirectoryNode" />
+              <item name="ch10" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="redisbook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="redisbook" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="redisbook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="redisbook" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="redisbook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="redisbook" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="redisbook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="redisbook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="redisbook" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="redisbook" type="462c0819:PsiDirectoryNode" />
+              <item name="ch7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="redisbook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="redisbook" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="redisbook" type="462c0819:PsiDirectoryNode" />
+              <item name="ch7" type="462c0819:PsiDirectoryNode" />
+              <item name="recentview" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="redisbook" type="b2602c69:ProjectViewProjectNode" />
+              <item name="redisbook" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="redisbook" type="462c0819:PsiDirectoryNode" />
+              <item name="ch10" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -556,11 +537,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="net.sf.redisbook.ch10" />
       <recent name="net.sf.redisbook.ch8" />
       <recent name="net.sf.redisbook.ch8.replication" />
       <recent name="net.sf.redisbook.ch7.recentview" />
       <recent name="net.sf.redisbook.ch7.uniquevisit" />
-      <recent name="net.sf.redisbook.ch7.cart" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -575,22 +556,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ShardingTest.replicationTest">
+  <component name="RunManager" selected="JUnit.HashZipListTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="RecentViewListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HashZipListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="redisbook_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="net.sf.redisbook.ch7.recentview.*" />
+          <option name="PATTERN" value="net.sf.redisbook.ch10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="net.sf.redisbook.ch7.recentview" />
-      <option name="MAIN_CLASS_NAME" value="net.sf.redisbook.ch7.recentview.RecentViewListTest" />
+      <option name="PACKAGE_NAME" value="net.sf.redisbook.ch10" />
+      <option name="MAIN_CLASS_NAME" value="net.sf.redisbook.ch10.HashZipListTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -602,20 +583,20 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="RecentViewListTestV2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HashZipListTest.testEncodingTestForDataSize" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="redisbook_test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="net.sf.redisbook.ch7.recentview.*" />
+          <option name="PATTERN" value="net.sf.redisbook.ch10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="net.sf.redisbook.ch7.recentview" />
-      <option name="MAIN_CLASS_NAME" value="net.sf.redisbook.ch7.recentview.RecentViewListTestV2" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="net.sf.redisbook.ch10" />
+      <option name="MAIN_CLASS_NAME" value="net.sf.redisbook.ch10.HashZipListTest" />
+      <option name="METHOD_NAME" value="testEncodingTestForDataSize" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -743,19 +724,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.RecentViewListTest" />
-      <item itemvalue="JUnit.RecentViewListTestV2" />
       <item itemvalue="JUnit.ReplicationTest" />
       <item itemvalue="JUnit.ReplicationTestV2" />
       <item itemvalue="JUnit.ShardingTest.replicationTest" />
+      <item itemvalue="JUnit.HashZipListTest" />
+      <item itemvalue="JUnit.HashZipListTest.testEncodingTestForDataSize" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.HashZipListTest" />
+        <item itemvalue="JUnit.HashZipListTest.testEncodingTestForDataSize" />
         <item itemvalue="JUnit.ShardingTest.replicationTest" />
         <item itemvalue="JUnit.ReplicationTestV2" />
         <item itemvalue="JUnit.ReplicationTest" />
-        <item itemvalue="JUnit.RecentViewListTestV2" />
-        <item itemvalue="JUnit.RecentViewListTest" />
       </list>
     </recent_temporary>
   </component>
@@ -782,28 +763,11 @@
       <workItem from="1526822511272" duration="4000000" />
       <workItem from="1526868402467" duration="10732000" />
       <workItem from="1526900395955" duration="5415000" />
+      <workItem from="1526952178909" duration="3164000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="EventUserListTest - 2018.05.21 at 12h 45m 58s.xml">
-      <configuration name="EventUserListTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RecentViewListTest - 2018.05.21 at 17h 52m 00s.xml">
-      <configuration name="RecentViewListTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RecentViewListTestV2 - 2018.05.21 at 18h 11m 07s.xml">
-      <configuration name="RecentViewListTestV2" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReplicationTest - 2018.05.21 at 20h 22m 06s.xml">
-      <configuration name="ReplicationTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReplicationTest - 2018.05.21 at 20h 22m 41s.xml">
-      <configuration name="ReplicationTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReplicationTest - 2018.05.21 at 20h 22m 53s.xml">
-      <configuration name="ReplicationTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ReplicationTest - 2018.05.21 at 20h 23m 23s.xml">
       <configuration name="ReplicationTest" configurationId="JUnit" />
     </history-entry>
@@ -816,9 +780,27 @@
     <history-entry file="ShardingTest_replicationTest - 2018.05.21 at 23h 58m 59s.xml">
       <configuration name="ShardingTest.replicationTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="HashZipListTest - 2018.05.22 at 10h 48m 42s.xml">
+      <configuration name="HashZipListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HashZipListTest - 2018.05.22 at 10h 53m 17s.xml">
+      <configuration name="HashZipListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HashZipListTest_testEncodingTestForDataSize - 2018.05.22 at 10h 55m 31s.xml">
+      <configuration name="HashZipListTest.testEncodingTestForDataSize" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HashZipListTest - 2018.05.22 at 10h 55m 41s.xml">
+      <configuration name="HashZipListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HashZipListTest - 2018.05.22 at 10h 55m 52s.xml">
+      <configuration name="HashZipListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HashZipListTest - 2018.05.22 at 10h 57m 58s.xml">
+      <configuration name="HashZipListTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55464000" />
+    <option name="totallyTimeSpent" value="58628000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2560" y="57" width="2560" height="1417" extended-state="6" />
@@ -830,7 +812,6 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.3276247" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -841,8 +822,8 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.267312" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17734376" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="7" />
@@ -854,6 +835,7 @@
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.3276247" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
@@ -865,8 +847,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/redis.clients/jedis/2.9.0/6d75e2498cd82c02665df5f9d7a77d0b5e398157/jedis-2.9.0-sources.jar!/redis/clients/jedis/Protocol.java" />
-    <entry file="file://$PROJECT_DIR$/waslog20180419-15.log" />
     <entry file="file://$PROJECT_DIR$/waslog20180420-18.log" />
     <entry file="file://$PROJECT_DIR$/src/main/java/net/sf/redisbook/App.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -886,13 +866,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="13" column="84" selection-start-line="13" selection-start-column="84" selection-end-line="13" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch7/visitcount/VisitCountTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
         </state>
       </provider>
     </entry>
@@ -931,9 +904,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
           <caret line="49" column="7" selection-start-line="49" selection-start-column="7" selection-end-line="49" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -955,9 +925,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="33" column="30" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1007,34 +974,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch7/visitcount/VisitCountOfDayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch7/uniquevisit/EventUserListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" column="62" selection-start-line="48" selection-start-column="62" selection-end-line="48" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch7/uniquevisit/UniqueVisitTestV2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch7/uniquevisit/UniqueVisitTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="5" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="35" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/net/sf/redisbook/ch7/recentview/RecentViewList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -1050,23 +989,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/net/sf/redisbook/ch7/recentview/RecentViewListV2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="58" selection-start-line="58" selection-end-line="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch7/recentview/RecentViewListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="30" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch7/recentview/RecentViewListTestV2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
           <caret line="58" selection-start-line="58" selection-end-line="58" />
@@ -1119,10 +1041,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#240#241#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1150,16 +1068,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch8/ReplicationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="44" column="55" selection-start-line="44" selection-start-column="55" selection-end-line="44" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1198,7 +1106,7 @@
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-pool/commons-pool/1.4/ad142feebc0d8c7a72b5a79c0a7d8776ce10c90a/commons-pool-1.4-sources.jar!/org/apache/commons/pool/impl/GenericObjectPool.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
+        <state relative-caret-position="19470">
           <caret line="1358" column="24" selection-start-line="1358" selection-start-column="24" selection-end-line="1358" selection-end-column="24" />
         </state>
       </provider>
@@ -1212,8 +1120,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/net/sf/redisbook/JedisHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="53" column="5" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="53" selection-end-column="5" />
+        <state relative-caret-position="720">
+          <caret line="53" column="5" selection-start-line="41" selection-start-column="1" selection-end-line="53" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1222,16 +1130,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/net/sf/redisbook/ShardedJedisHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="740">
-          <caret line="87" lean-forward="true" selection-start-line="87" selection-end-line="87" />
+        <state relative-caret-position="1170">
+          <caret line="87" selection-start-line="87" selection-end-line="87" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#441#455#0" expanded="true" />
-            <element signature="e#868#905#0" expanded="true" />
-            <element signature="e#1302#1318#0" expanded="true" />
-            <element signature="e#1635#1672#0" expanded="true" />
-            <element signature="e#1715#1716#0" expanded="true" />
-            <element signature="e#1747#1748#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1239,21 +1141,24 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/net/sf/redisbook/ch8/replication/ReplicationKeyMakerV2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
+          <caret line="19" column="5" selection-start-line="5" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/net/sf/redisbook/ch8/replication/ShardTestKeyMaker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/net/sf/redisbook/AppTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch8/ReplicationTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="660">
+          <caret line="44" column="55" selection-start-line="44" selection-start-column="55" selection-end-line="44" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1266,11 +1171,90 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch8/ShardingTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="49" lean-forward="true" selection-start-line="30" selection-start-column="49" selection-end-line="30" selection-end-column="49" />
+        <state relative-caret-position="540">
+          <caret line="36" column="1" lean-forward="true" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/net/sf/redisbook/ch10/HashZipList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="56" column="5" lean-forward="true" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch10/HashZipListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="69" selection-start-line="38" selection-start-column="51" selection-end-line="38" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch7/recentview/RecentViewListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch7/uniquevisit/UniqueVisitTestV2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/sf/redisbook/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch7/uniquevisit/UniqueVisitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch7/uniquevisit/EventUserListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="48" column="62" selection-start-line="48" selection-start-column="62" selection-end-line="48" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch7/visitcount/VisitCountTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch7/visitcount/VisitCountOfDayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/net/sf/redisbook/ch7/recentview/RecentViewListTestV2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
         </state>
       </provider>
     </entry>
